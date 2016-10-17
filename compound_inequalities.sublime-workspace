@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgr",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\n\n",
+			"settings":
+			{
+				"buffer_size": 3,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 276.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Gilbert Apodaca/Documents/GitHub/apodaca-edu.github.io/pages/test.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/styles/math.css",
+		"/C/Users/Gilbert Apodaca/Documents/GitHub/apodaca-edu.github.io/pages/integrated2.html",
+		"/C/Users/Gilbert Apodaca/Desktop/msMath16-17/pages/sixth.html",
+		"/C/Users/Gilbert Apodaca/Documents/GitHub/apodaca-edu.github.io/pages/im1.html",
+		"/C/Users/Gilbert Apodaca/Desktop/msMath16-17/index.html",
+		"/C/Users/Gilbert Apodaca/Documents/GitHub/apodaca-edu.github.io/pages/intmath2/mod4/topicA.html",
+		"/C/Users/Gilbert Apodaca/Documents/GitHub/apodaca-edu.github.io/pages/integrated2 - Copy.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/index.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/styles/style.css",
+		"/C/Users/Gilbert Apodaca/Dropbox/Centennial.2015-2016/Types of linear equations.mht",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/eigth.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/sixth.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/fifth.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/fourth.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/third.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/second.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/K.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/first.html",
+		"/D/SP Service/index.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/alg1.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/alg2.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/preCalc.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/geometry.html",
+		"/C/Users/Gilbert Apodaca/Desktop/Eureka2016/pages/seventh.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"G8",
+			"-->",
+			"<!--",
+			"G8",
+			"G7",
+			"student",
+			"studentd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"G5",
+			"G4",
+			"G3",
+			"G2",
+			"G1",
+			"",
+			"GK",
+			"G8",
+			"G12",
+			"G11",
+			"G6",
+			"Student",
+			"student"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "compound_inequalities.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

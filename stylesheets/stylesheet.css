@@ -87,7 +87,8 @@ template {
  */
 
 a {
-  background-color: transparent;
+	background-color: transparent;
+	font-size: 0.9em;
 }
 
 /**
@@ -444,7 +445,9 @@ a {
   color: #2879d0;
 }
 a:hover {
-  color: #2268b2;
+	color: #2268b2;
+	font-size: 0.9em;
+	font-family: "Arial Black", Gadget, sans-serif;
 }
 
 header {
@@ -573,7 +576,8 @@ pre code {
 }
 
 ul, ol, dl {
-  margin-bottom: 20px;
+	margin-bottom: 20px;
+	list-style-type: circle;
 }
 
 
@@ -880,4 +884,3 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-
